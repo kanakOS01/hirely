@@ -10,6 +10,7 @@ backend/.env*
 backend/.venv/
 backend/venv/
 *.pyc
+.python-version
 
 # OS
 .DS_Store
