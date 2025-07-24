@@ -1,20 +1,3 @@
-# Node
-frontend/node_modules/
-node_modules/
-frontend/.next/
-frontend/.env*
-
-# Python
-backend/__pycache__/
-backend/.env*
-backend/.venv/
-backend/venv/
-*.pyc
-.python-version
-
-# OS
-.DS_Store
-
-# General
-.env*
-*.log 
+.venv/
+.env
+__pycache__/
